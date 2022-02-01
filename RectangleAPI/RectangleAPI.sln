@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleAPI", "RectangleAPI\RectangleAPI.csproj", "{940B3B56-C3E0-462A-A027-3F91C15F511F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleAPITests", "RectangleAPITests\RectangleAPITests.csproj", "{536A178F-A924-4A6C-9B3E-D025A0866A98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{940B3B56-C3E0-462A-A027-3F91C15F511F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{940B3B56-C3E0-462A-A027-3F91C15F511F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{940B3B56-C3E0-462A-A027-3F91C15F511F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{940B3B56-C3E0-462A-A027-3F91C15F511F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{536A178F-A924-4A6C-9B3E-D025A0866A98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{536A178F-A924-4A6C-9B3E-D025A0866A98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{536A178F-A924-4A6C-9B3E-D025A0866A98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{536A178F-A924-4A6C-9B3E-D025A0866A98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DA7348A-FADB-4C51-8712-6939AC1C843B}
+	EndGlobalSection
+EndGlobal
